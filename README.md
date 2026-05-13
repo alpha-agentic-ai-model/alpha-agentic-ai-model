@@ -51,10 +51,10 @@ I'm an AI Engineer passionate about building production-grade AI systems. I spec
 | [Multi-Agent Research System](https://github.com/alpha-agentic-ai-model/ai-portfolio/tree/main/projects/01-multi-agent-research-system) | Orchestrated agents that collaborate to produce research reports | LangGraph, GPT-4o |
 | [Agentic RAG Pipeline](https://github.com/alpha-agentic-ai-model/ai-portfolio/tree/main/projects/02-agentic-rag-hybrid-search) | Hybrid search + self-corrective RAG with hallucination detection | LlamaIndex, ChromaDB |
 | [MCP DevOps Agent](https://github.com/alpha-agentic-ai-model/ai-portfolio/tree/main/projects/03-mcp-devops-agent) | DevOps automation via Model Context Protocol | MCP, Claude 4 |
-| [ML Monitoring Pipeline](https://github.com/alpha-agentic-ai-model/ai-portfolio/tree/main/projects/04-ml-monitoring-pipeline) | Auto-retraining with drift detection & canary deploys | MLflow, Evidently AI |
+| [A2A Agent Marketplace](https://github.com/alpha-agentic-ai-model/ai-portfolio/tree/main/projects/11-a2a-agent-marketplace) | Decentralized agent marketplace with A2A protocol discovery | A2A Protocol, FastAPI |
 | [Autonomous Coding Agent](https://github.com/alpha-agentic-ai-model/ai-portfolio/tree/main/projects/10-autonomous-coding-agent) | AI agent that solves GitHub issues and submits PRs | OpenAI Agents SDK |
 
-> See all 10+ projects in my [AI Portfolio](https://alpha-agentic-ai-model.github.io/ai-portfolio/)
+> See all 16 projects in my [AI Portfolio](https://alpha-agentic-ai-model.github.io/ai-portfolio/)
 
 ---
 
