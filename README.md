@@ -51,10 +51,10 @@ I'm an AI Engineer passionate about building production-grade AI systems. I spec
 | [Multi-Agent Research System](https://github.com/alpha-agentic-ai-model/ai-portfolio/tree/main/projects/01-multi-agent-research-system) | Orchestrated agents that collaborate to produce research reports | LangGraph, GPT-4o |
 | [Agentic RAG Pipeline](https://github.com/alpha-agentic-ai-model/ai-portfolio/tree/main/projects/02-agentic-rag-hybrid-search) | Hybrid search + self-corrective RAG with hallucination detection | LlamaIndex, ChromaDB |
 | [MCP DevOps Agent](https://github.com/alpha-agentic-ai-model/ai-portfolio/tree/main/projects/03-mcp-devops-agent) | DevOps automation via Model Context Protocol | MCP, Claude 4 |
-| [A2A Agent Marketplace](https://github.com/alpha-agentic-ai-model/ai-portfolio/tree/main/projects/11-a2a-agent-marketplace) | Decentralized agent marketplace with A2A protocol discovery | A2A Protocol, FastAPI |
-| [Autonomous Coding Agent](https://github.com/alpha-agentic-ai-model/ai-portfolio/tree/main/projects/10-autonomous-coding-agent) | AI agent that solves GitHub issues and submits PRs | OpenAI Agents SDK |
+| [GraphRAG Reasoning Engine](https://github.com/alpha-agentic-ai-model/ai-portfolio/tree/main/projects/19-graphrag-knowledge-reasoning) | Knowledge graph-based RAG with multi-hop reasoning | Neo4j, Claude API |
+| [AWS Strands Agent Orchestrator](https://github.com/alpha-agentic-ai-model/ai-portfolio/tree/main/projects/18-strands-multi-agent-orchestrator) | Dynamic task routing with intent classification on AWS Bedrock | Strands SDK, Bedrock |
 
-> See all 16 projects in my [AI Portfolio](https://alpha-agentic-ai-model.github.io/ai-portfolio/)
+> See all 22 projects in my [AI Portfolio](https://alpha-agentic-ai-model.github.io/ai-portfolio/)
 
 ---
 
