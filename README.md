@@ -50,11 +50,11 @@ I'm an AI Engineer passionate about building production-grade AI systems. I spec
 |---------|-------------|------|
 | [Agent Swarm Intelligence](https://github.com/alpha-agentic-ai-model/ai-portfolio/tree/main/projects/23-agent-swarm-emergent-behavior) | Bio-inspired swarm with stigmergy memory and emergent problem-solving | Ray, Claude API |
 | [Agentic RAG Pipeline](https://github.com/alpha-agentic-ai-model/ai-portfolio/tree/main/projects/02-agentic-rag-hybrid-search) | Hybrid search + self-corrective RAG with hallucination detection | LlamaIndex, ChromaDB |
-| [MCP DevOps Agent](https://github.com/alpha-agentic-ai-model/ai-portfolio/tree/main/projects/03-mcp-devops-agent) | DevOps automation via Model Context Protocol | MCP, Claude 4 |
+| [MCP Agent Gateway](https://github.com/alpha-agentic-ai-model/ai-portfolio/tree/main/projects/29-mcp-agent-gateway) | Dynamic MCP tool discovery with auth, rate limiting & audit trails | MCP, FastAPI, Redis |
 | [GraphRAG Reasoning Engine](https://github.com/alpha-agentic-ai-model/ai-portfolio/tree/main/projects/19-graphrag-knowledge-reasoning) | Knowledge graph-based RAG with multi-hop reasoning | Neo4j, Claude API |
 | [AWS Strands Agent Orchestrator](https://github.com/alpha-agentic-ai-model/ai-portfolio/tree/main/projects/18-strands-multi-agent-orchestrator) | Dynamic task routing with intent classification on AWS Bedrock | Strands SDK, Bedrock |
 
-> See all 28 projects in my [AI Portfolio](https://alpha-agentic-ai-model.github.io/ai-portfolio/)
+> See all 34 projects in my [AI Portfolio](https://alpha-agentic-ai-model.github.io/ai-portfolio/)
 
 ---
 
