@@ -51,10 +51,10 @@ I'm an AI Engineer passionate about building production-grade AI systems. I spec
 | [Multi-Modal Screen Agent](https://github.com/alpha-agentic-ai-model/ai-portfolio/tree/main/projects/40-multimodal-screen-agent-visual-grounding) | Vision-language agent with SoM grounding and reflexion-based self-correction | Claude API, Florence-2 |
 | [RLVR Training Loop with GRPO](https://github.com/alpha-agentic-ai-model/ai-portfolio/tree/main/projects/46-rlvr-grpo-verifiable-rewards) | Group-relative policy optimisation over sandbox-executed verifiable rewards | PyTorch, TRL, vLLM |
 | [TopK Sparse Autoencoder for Interpretability](https://github.com/alpha-agentic-ai-model/ai-portfolio/tree/main/projects/51-sparse-autoencoder-llm-interpretability) | Decomposes LLM residual-stream activations into interpretable features with dead-latent resampling | PyTorch, TransformerLens |
-| [GraphRAG Reasoning Engine](https://github.com/alpha-agentic-ai-model/ai-portfolio/tree/main/projects/19-graphrag-knowledge-reasoning) | Knowledge graph-based RAG with multi-hop reasoning | Neo4j, Claude API |
+| [Durable Agent Executor](https://github.com/alpha-agentic-ai-model/ai-portfolio/tree/main/projects/53-durable-agent-executor-checkpointed-replay) | Crash-safe long-running agent with journaled, idempotent step replay | Claude API, Postgres |
 | [MoE Router with Learned Gating](https://github.com/alpha-agentic-ai-model/ai-portfolio/tree/main/projects/39-moe-router-learned-gating) | Custom Mixture of Experts transformer with load-balanced expert routing | PyTorch, DeepSpeed |
 
-> See all 52 projects in my [AI Portfolio](https://alpha-agentic-ai-model.github.io/ai-portfolio/)
+> See all 58 projects in my [AI Portfolio](https://alpha-agentic-ai-model.github.io/ai-portfolio/)
 
 ---
 
