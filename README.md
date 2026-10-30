@@ -52,9 +52,9 @@ I'm an AI Engineer passionate about building production-grade AI systems. I spec
 | [RLVR Training Loop with GRPO](https://github.com/alpha-agentic-ai-model/ai-portfolio/tree/main/projects/46-rlvr-grpo-verifiable-rewards) | Group-relative policy optimisation over sandbox-executed verifiable rewards | PyTorch, TRL, vLLM |
 | [TopK Sparse Autoencoder for Interpretability](https://github.com/alpha-agentic-ai-model/ai-portfolio/tree/main/projects/51-sparse-autoencoder-llm-interpretability) | Decomposes LLM residual-stream activations into interpretable features with dead-latent resampling | PyTorch, TransformerLens |
 | [Durable Agent Executor](https://github.com/alpha-agentic-ai-model/ai-portfolio/tree/main/projects/53-durable-agent-executor-checkpointed-replay) | Crash-safe long-running agent with journaled, idempotent step replay | Claude API, Postgres |
-| [MoE Router with Learned Gating](https://github.com/alpha-agentic-ai-model/ai-portfolio/tree/main/projects/39-moe-router-learned-gating) | Custom Mixture of Experts transformer with load-balanced expert routing | PyTorch, DeepSpeed |
+| [Multi-Head Latent Attention](https://github.com/alpha-agentic-ai-model/ai-portfolio/tree/main/projects/63-multi-head-latent-attention-compressed-kv) | Low-rank latent KV attention with decoupled RoPE and a ~7x smaller inference cache | PyTorch |
 
-> See all 58 projects in my [AI Portfolio](https://alpha-agentic-ai-model.github.io/ai-portfolio/)
+> See all 64 projects in my [AI Portfolio](https://alpha-agentic-ai-model.github.io/ai-portfolio/)
 
 ---
 
